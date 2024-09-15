@@ -37,7 +37,7 @@ The Font Group System is a one-page web application that allows users to upload 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/font-group-system.git
+   https://github.com/sayedulabrar/FontManagementSystem.git
    ```
 
 2. Move the project folder to your XAMPP's `htdocs` directory.
